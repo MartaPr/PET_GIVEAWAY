@@ -3,7 +3,9 @@
 {
   "name": "pet_giveaway",
   "version": "0.1.0",
-  "private": true,
+  "engines": {
+    "node": "8.9.4"
+  },
 
   "dependencies": {
     "@fortawesome/react-fontawesome": "^0.1.3",
