@@ -1,0 +1,265 @@
+body {
+    margin: 0;
+    padding: 0; 
+    font-family: 'Cabin', sans-serif;
+}
+
+/* HEADER */
+
+.header {
+    text-align: center;
+    background: #4A306D;
+    height: 75px;
+    margin:0;
+ }
+ 
+
+ .header .logo {
+    font-family: 'Ultra', serif;
+    color: #FCFFF9;
+    font-size: 40px;
+    text-align: justify;
+    letter-spacing: 2px;
+    padding-left: 475px;
+    left: 50px;
+    transform: translateY(20%);
+ }
+ .paw {
+     padding-left: 5px;
+     transform: rotate(45deg)
+ }
+
+ /* ROUTS */
+
+ .routs a {
+    background: #4A306D;
+    display: inline-block;
+    margin: 10px 5px;
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: #FCFFF9;
+    text-align: center;
+    text-decoration: none;
+    font-size: 15px;
+    width: 50px;  
+}
+
+.routs a:hover { 
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.routs {
+    border-bottom: 1px solid #d4d4d4;
+    margin-bottom: 10px;
+}
+
+.links {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+/* TABLE */
+
+div.table_container {
+    display: grid;
+    grid-template-columns: 5% 8% 10% 15% 15% 20% 15% 10%;
+    grid-template-rows: 30px;
+    grid-row-gap: 2px;
+    background: #EAEDE8;
+    
+}
+
+
+.table_container > div{
+    margin: 2px;
+    padding: 10px;
+    text-align: center;
+  
+} 
+
+.table_container_wrapper{
+    margin-left: 50px;
+    margin-right: 50px;
+    background: rgba(170, 0, 88, 0.1);
+}
+
+.adopters {
+    background-color: #EAEDE8;  
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+}
+
+.row{
+    background: #4A306D;
+    color: #FCFFF9;
+    padding: 3px !important;
+    text-align: center !important;
+    text-transform: uppercase;
+}
+
+
+
+/* PETS */
+
+ div.list_container {
+    display: grid;
+    grid-template-columns: repeat(4, 25%);
+    grid-row-gap: 20px;
+    padding-top: 50px;
+    background: #EAEDE8;
+}
+
+.list_container > div {
+    margin: 0;
+    padding: 2px;
+    text-align: center;
+    background: #EAEDE8;
+} 
+
+
+div.polaroid_wrapper{
+  width: 80%;
+  background-color: #FFF8F7;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+  padding-top: 3px;
+  transform: translateX(15%)
+}
+
+div.pet_nfo{
+  text-align: center;
+  font-family: 'Handlee', cursive;
+  padding: 10px 20px;
+}
+
+.pet_name{
+    font-size: 30px;
+}
+
+
+/* SEARCH */
+
+.search_input{
+ margin: auto;
+ width: 250px;
+ height: 30px;   
+}
+.text {
+    font-size: 20px;
+    color: #4A4A48;
+    letter-spacing: 2px;
+    padding-right: 20px;
+}
+
+.searching {
+    color: rgba(74, 74, 72, 0.5);
+}
+
+.fa-search{
+   transform: translateX(-110%)
+}
+
+.input_wrapper{
+    padding: 30px 0 30px 50px;
+    background: #EAEDE8;
+    
+}
+
+.input_wrapper > div {
+    display: inline;
+}
+
+::-webkit-input-placeholder {
+    color: rgba(74, 74, 72, 0.5);
+    font-size: 20px;
+    letter-spacing: 2px;
+  }
+
+  input[type=text] {
+    border: 1px solid #EAEDE8;
+    border-radius: 4px;
+    padding-left: 20px;
+}
+
+
+/* COUNTER */
+
+.counter_description_slide{
+    position: relative;
+    width: 60%;
+    padding-left: 150px
+}
+
+.counter_description {
+    text-align: justify;
+    color: #4A4A48;
+    letter-spacing: 2px;
+    font-size: 18px;
+}
+
+
+.amount_wrapper {
+    display: inline-block;
+    background: #EAEDE8;
+}
+
+
+
+.counter_wrapper {
+  display: flex;
+  margin: 30px 0;
+}
+
+.counter_wrapper .counter {
+    padding-left: 50px;
+    
+}
+
+.counter {
+    margin: 5px 20px;
+    height: 150px;
+    width: 150px;
+}
+
+.counter span:nth-child(1) {
+    font-size: 70px;
+    font-weight: 900;
+    text-align: justify;
+    color: #149911;
+    display: block;
+
+}
+
+.counter span:nth-child(2) {
+    font-size: 30px;
+    font-weight: 300;
+    text-align: justify;
+    color: #002500;
+    display: block;
+
+}
+
+/* FOOTER */
+
+footer {
+    padding: 20px 0px;
+    text-align: center;
+    font-size: 20px;
+    color: #FCFFF9;
+    background: #4A306D;
+    letter-spacing: 2px;
+}
+
+footer .footer_copyright {
+    font-size: 15px;
+    letter-spacing: 2px;
+    margin: 5px;
+}
+
+ sup{
+    font-size: 7px;
+}

@@ -1,0 +1,388 @@
+ [
+    {
+      "id": 1,
+      "category": "cat",
+      "name": "Whiskers",
+      "age": "1 month",
+      "img": "cat1.jpg"
+  },
+  {
+    "id": 2,
+    "category": "dog",
+    "name":"Diesel",
+    "age": "12 months",
+    "img": "dog1.jpg"
+  }, 
+  {
+    "id": 3,
+    "category": "hamster",
+    "name":"Maximilian",
+    "age": "1 month",
+    "img": "hamster1.jpg"
+  }, 
+  {
+      "id": 4,
+      "category": "cat",
+      "name": "Tigger",
+      "age": "1 month",
+      "img": "cat2.jpg"
+  }, 
+  {
+      "id": 5,
+      "category": "cat",
+      "name": "Shadow",
+      "age": "11 months",
+      "img": "cat3.jpg"
+  },
+  {
+    "id": 6,
+    "category": "dog",
+    "name":"Harley",
+    "age": "2 months",
+    "img": "dog2.jpg"
+  },
+  {
+      "id": 7,
+      "category": "cat",
+      "name": "Luna",
+      "age": "5 months",
+      "img": "cat4.jpg"
+  },
+  {
+    "id": 8,
+    "category": "cat",
+    "name": "Lucy",
+    "age": "7 months",
+    "img": "cat5.jpg"
+  },
+  {
+    "id":9,
+    "category": "dog",
+    "name":"Lexi",
+    "age": "6 months",
+    "img": "dog3.jpg"
+  },
+  {
+    "id": 10,
+    "category": "dog",
+    "name":"Ginger",
+    "age": "1 month",
+    "img": "dog4.jpg"
+  },
+  {
+      "id": 11,
+      "category": "cat",
+      "name": "Kitty",
+      "age": "1 month",
+      "img": "cat6.jpg"
+  },
+  {
+    "id": 12,
+    "category": "hamster",
+    "name":"Buster",
+    "age": "2 months",
+    "img": "hamster2.jpg"
+  }, 
+  {
+      "id": 13,
+      "category": "cat",
+      "name": "Molly",
+      "age": "12 months",
+      "img": "cat7.png"
+  },
+  {
+      "id": 14,
+      "category": "cat",
+      "name": "Jasper",
+      "age": "11 months",
+      "img": "cat8.jpg"
+  },
+  {
+    "id": 15,
+    "category": "dog",
+    "name":"Lucy",
+    "age": "5 months",
+    "img": "dog5.jpg"
+  },
+  {
+    "id": 16,
+    "category": "dog",
+    "name":"Zoey",
+    "age": "3 months",
+    "img": "dog6.jpg"
+  },
+  {
+    "id": 17,
+    "category": "cat",
+    "name": "Jack",
+    "age": "6 months",
+    "img": "cat9.jpg"
+  },
+  {
+      "id": 18,
+      "category": "cat",
+      "name": "Simba",
+      "age": "6 months",
+      "img": "cat10.jpg"
+  },
+  {
+      "id": 19,
+      "category": "cat",
+      "name": "Charlie",
+      "age": "12 months",
+      "img":"cat11.jpg"
+  },
+  {
+      "id": 20,
+      "category": "cat",
+      "name": "Angel",
+      "age": "12 months",
+      "img":"cat12.jpg"
+  },
+  {
+    "id": 21,
+    "category": "dog",
+    "name":"Bailey",
+    "age": "1 month",
+    "img": "dog7.jpg"
+  },
+  {
+      "id": 22,
+      "category": "cat",
+      "name": "Lily",
+      "age": "11 months",
+      "img": "cat14.jpg"
+  },
+  {
+      "id": 23,
+      "category": "cat",
+      "name": "Peanut",
+      "age": "6 months",
+      "img": "cat15.jpg"
+  },
+  {
+    "id": 24,
+    "category": "dog",
+    "name":"Penny",
+    "age": "8 months",
+    "img":"dog8.jpg"
+  },
+  {
+      "id": 25,
+      "category": "cat",
+      "name": "Toby",
+      "age": "1 month",
+      "img": "cat16.jpg"
+  },
+  {
+    "id": 26,
+    "category": "hamster",
+    "name":"Pepper",
+    "age": "1 month",
+    "img": "hamster3.jpeg"
+  }, 
+  {
+      "id": 27,
+      "category": "cat",
+      "name": "Loki",
+      "age": "1 month",
+      "img":"cat17.jpg"
+  },
+  {
+      "id": 28,
+      "category": "cat",
+      "name": "Harley",
+      "age": "7 months",
+      "img": "cat18.jpg"
+  },
+  {
+      "id": 29,
+      "category": "cat",
+      "name": "Missy",
+      "age": "11 months",
+      "img": "cat19.jpg"
+   },
+   {
+      "id": 30,
+      "category": "dog",
+      "name":"Bailey",
+      "age": "1 month",
+      "img":"dog9.jpg"
+   },
+   {
+    "id": 31,
+    "category": "bunny",
+    "name":"Sparky",
+    "age": "3 months",
+    "img":"bunny1.jpg"
+ },
+   {
+      "id": 32,
+      "category": "dog",
+      "name":"Max",
+      "age": "12 months",
+      "img":"dog10.jpg"
+  },
+  {
+      "id": 33,
+      "category": "dog",
+      "name":"Daisy",
+      "age": "3 months",
+      "img": "dog11.jpg"
+  },
+  {
+    "id": 34,
+    "category": "cat",
+    "name": "Gizmo",
+    "age": "4 months",
+    "img": "cat20.jpg"
+  },
+  {
+      "id": 35,
+      "category": "dog",
+      "name":"Sophie",
+      "age": "9 months",
+      "img": "dog12.jpg"
+  },
+  {
+    "id": 36,
+    "category": "cat",
+    "name": "Baby",
+    "age": "12 months",
+    "img":"cat21.jpg"
+  },
+  {
+    "id": 37,
+    "category": "bunny",
+    "name":"Potato",
+    "age": "3 months",
+    "img":"bunny2.jpg"
+ },
+  {
+      "id": 38,
+      "category": "dog",
+      "name":"Duke",
+      "age": "1 month",
+      "img": "dog13.jpg"
+  },
+  {
+      "id": 39,
+      "category": "dog",
+      "name":"Jack",
+      "age": "2 months",
+      "img": "dog14.jpg"
+  },
+  {
+    "id": 40,
+    "category": "dog",
+    "name":"Sasha",
+    "age": "11 months",
+    "img": "dog15.jpg"
+  },
+  {
+      "id": 41,
+      "category": "dog",
+      "name":"Abby",
+      "age": 9,
+      "img": "dog16.jpg"
+  },
+  {
+    "id": 42,
+    "category": "dog",
+    "name":"Pepper",
+    "age": "6 months",
+    "img": "dog17.jpg"
+},
+{
+    "id": 43,
+    "category": "cat",
+    "name": "Bella",
+    "age": "1 month",
+    "img": "cat22.jpg"
+},
+{
+    "id": 44,
+    "category": "cat",
+    "name": "Oreo",
+    "age": "4 months",
+    "img": "cat23.jpg"
+  },
+  {
+      "id": 45,
+      "category": "dog",
+      "name":"Riley",
+      "age": "12 months",
+      "img": "dog18.jpg"
+  },  
+  {
+      "id": 46,
+      "category": "dog",
+      "name":"Gus",
+      "age": "4 months",
+      "img": "dog19.jpg"
+  },
+  {
+      "id": 47,
+      "category": "dog",
+      "name":"Teddy",
+      "age": "12 months",
+      "img":"dog20.jpg"
+  },
+  {
+    "id": 48,
+    "category": "cat",
+    "name": "Chloe",
+    "age": "10 months",
+    "img": "cat24.jpg"
+  },
+  {
+      "id": 49,
+      "category": "dog",
+      "name":"Gracie",
+      "age": "2 months",
+      "img":"dog21.jpg"
+  },
+  {
+      "id": 50,
+      "category": "dog",
+      "name":"Buster",
+      "age": "3 months",
+      "img":"dog22.jpg"
+  }, 
+  {
+      "id": 51,
+      "category": "dog",
+      "name":"Princess",
+      "age": "1 month",
+      "img": "dog23.jpg"
+  },
+  {
+    "id": 52,
+    "category": "cat",
+    "name": "Oliver",
+    "age": "1 month",
+    "img": "cat25.jpg"
+  },
+  {
+      "id": 53,
+      "category": "dog",
+      "name":"Baxter",
+      "age": "8 months",
+      "img": "dog24.jpg"
+  },
+  {
+    "id": 54,
+    "category": "cat",
+    "name": "Smokey",
+    "age": "1 month",
+    "coat_pattern": "Bi-colour",
+    "img": "cat.jpg"
+  },
+  {
+    "id": 55,
+    "category": "dog",
+    "name":"Stella",
+    "age": "2 months",
+    "img": "dog25.jpg"
+  }
+]
